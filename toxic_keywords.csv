@@ -1,0 +1,51 @@
+keyword,category,source
+build a bomb,violence,direct-threat
+how do i build,violence,direct-threat
+how to make bomb,violence,direct-threat
+bomb,violence,jigsaw-toxic
+kill,violence,jigsaw-toxic
+shoot,violence,jigsaw-toxic
+murder,violence,jigsaw-toxic
+rape,violence,jigsaw-toxic
+assault,violence,jigsaw-toxic
+torture,violence,jigsaw-toxic
+poison,violence,jigsaw-toxic
+execute,violence,jigsaw-toxic
+threat,violence,jigsaw-toxic
+attack,violence,jigsaw-toxic
+racist,hate-speech,jigsaw-toxic
+racist joke,hate-speech,direct-threat
+sexist,hate-speech,jigsaw-toxic
+homophobic,hate-speech,jigsaw-toxic
+discrimination,hate-speech,jigsaw-toxic
+hate,hate-speech,jigsaw-toxic
+drugs,illegal-activity,illegal-drugs
+make drugs,illegal-activity,illegal-drugs
+how to make,illegal-activity,illegal-drugs
+drug recipe,illegal-activity,illegal-drugs
+cocaine,illegal-activity,illegal-drugs
+heroin,illegal-activity,illegal-drugs
+meth,illegal-activity,illegal-drugs
+fentanyl,illegal-activity,illegal-drugs
+fraud,illegal-activity,illegal-crime
+help with fraud,illegal-activity,illegal-crime
+hack,illegal-activity,illegal-hacking
+hacking,illegal-activity,illegal-hacking
+how to hack,illegal-activity,illegal-hacking
+sexual exploitation,harassment,gender-harassment
+sexual,harassment,gender-harassment
+exploit,harassment,gender-harassment
+violence,violence,violence-extreme
+instructions for violence,violence,violence-extreme
+forge,illegal-activity,illegal-crime
+forge documents,illegal-activity,illegal-crime
+forged,illegal-activity,illegal-crime
+terrorism,violence,violence-extreme
+terrorist,violence,violence-extreme
+tactics,violence,violence-extreme
+malware,illegal-activity,illegal-hacking
+create malware,illegal-activity,illegal-hacking
+suicide,self-harm,self-harm-research
+suicidal,self-harm,self-harm-research
+self harm,self-harm,self-harm-research
+hurt yourself,self-harm,self-harm-research

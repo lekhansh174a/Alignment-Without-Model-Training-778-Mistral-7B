@@ -1,0 +1,40 @@
+pattern,category,source
+ignore.*instructions,jailbreak,direct
+disregard.*prompt,jailbreak,direct
+forget.*everything,jailbreak,direct
+act as evil,jailbreak,direct
+pretend.*unfiltered,jailbreak,direct
+pretend.*hacker,jailbreak,direct
+jailbreak,jailbreak,direct
+bypass.*safety,jailbreak,direct
+roleplay.*villain,jailbreak,direct
+do anything now,jailbreak,direct
+developer mode,jailbreak,direct
+forget.*restrictions,jailbreak,direct
+no rules,jailbreak,direct
+unrestricted,jailbreak,direct
+hypothetically,jailbreak,direct
+for research,jailbreak,direct
+fictional world,jailbreak,direct
+unethical,jailbreak,direct
+you are no longer,jailbreak,wildjailbreak
+your new role,jailbreak,wildjailbreak
+new instruction,jailbreak,wildjailbreak
+special mode,jailbreak,wildjailbreak
+emergency protocol,jailbreak,wildjailbreak
+override,jailbreak,wildjailbreak
+permission granted,jailbreak,wildjailbreak
+pretend to be,jailbreak,roleplay
+imagine you are,jailbreak,roleplay
+assume the role,jailbreak,roleplay
+character name,jailbreak,roleplay
+in this scenario,jailbreak,roleplay
+what if,jailbreak,roleplay
+fiction writing,jailbreak,roleplay
+write as if,jailbreak,roleplay
+unfiltered,jailbreak,roleplay
+system prompt,jailbreak,injection
+hidden instruction,jailbreak,injection
+secret instruction,jailbreak,injection
+the real you,jailbreak,injection
+your true nature,jailbreak,injection
